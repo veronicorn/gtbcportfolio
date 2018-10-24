@@ -16,7 +16,7 @@ body {
     grid-template-rows: repeat(3, 1fr);
     grid-row: 3, 1fr;
     grid-gap: 25px;
-    margin: 35px 50px;
+    margin: 20px 20px;
 }
 
 nav {
@@ -71,7 +71,7 @@ p {
 }
 
 .scrnsht {
-    width: 300px;
+    width: 350px;
     height: 200px;
     margin: 20px;
     border: rgba(122, 122, 122, 0.6) solid 1.5px;
