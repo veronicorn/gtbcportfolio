@@ -71,9 +71,9 @@ p {
 }
 
 .scrnsht {
-    width: 350px;
+    width: 375px;
     height: 200px;
-    margin: 20px;
+    /* margin: 20px; */
     border: rgba(122, 122, 122, 0.6) solid 1.5px;
 }
 
